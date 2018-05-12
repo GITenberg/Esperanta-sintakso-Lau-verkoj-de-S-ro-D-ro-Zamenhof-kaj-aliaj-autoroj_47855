@@ -1,4 +1,8 @@
 _repo: Esperanta-sintakso-Lau-verkoj-de-S-ro-D-ro-Zamenhof-kaj-aliaj-autoroj_47855
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47855-h/images/cover.jpg
 creator:
   author:
     agent_name: Fruictier, Paul
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/44501
     wikipedia: https://eo.wikipedia.org/wiki/Paul_Fruictier
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47855#Esperanta-sintakso-Lau-verkoj-de-S-ro-D-ro-Zamenhof-kaj-aliaj-autoroj
 gutenberg_bookshelf: Esperanto
 gutenberg_issued: '2015-01-03'
 gutenberg_type: Text
