@@ -23,5 +23,7 @@ language: eo
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: "Esperanta sintakso\r\nLaŭ verkoj de S-ro D-ro Zamenhof kaj aliaj aŭtoroj"
 url: http://www.gutenberg.org/ebooks/47855
